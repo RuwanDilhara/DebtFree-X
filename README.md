@@ -1,4 +1,4 @@
-# DebtFree-X: Smart Debt Avalanche & Amortization Engine
+<!--# DebtFree-X: Smart Debt Avalanche & Amortization Engine
 
 > A sophisticated financial decision-support system designed to help users eliminate multiple debts efficiently using the mathematically optimal Debt Avalanche Algorithm.
 
@@ -377,5 +377,7 @@ This project demonstrates:
 **Version:** 1.0.0
 
 ---
+-->
+
 
 *Built with ❤️ for financial freedom*
